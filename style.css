@@ -1,0 +1,22 @@
+h1{
+    color: #242038;
+}
+
+body{
+    background-color:  #cac4ce;
+}
+h2{
+    background-color: coral;
+}
+p{
+    background-color: coral;
+}
+table,
+td{
+ border: 1px solid #333;
+}
+thead,
+tfoot{
+  background-color: #333;
+  color: #fff;
+}
